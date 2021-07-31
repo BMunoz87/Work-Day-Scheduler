@@ -8,7 +8,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1; 
-    background: url(../images/279553.jpg) no-repeat center center fixed; 
+    background: url(../images/table-and-stickers.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -76,20 +76,20 @@
   }
   
   .past {
-    background-color:rgba(211, 211, 211, 0.6);
+    background-color:rgba(255, 0, 0, 0.359);
     color: black;
     border-radius: 5px;
     
   }
   
   .present {
-    background-color:rgba(255, 105, 97, 0.6);
+    background-color:rgba(242, 255, 97, 0.366);
     color: black;
     border-radius: 5px;
   }
   
   .future {
-    background-color:rgba(119, 221, 119, 0.6);
+    background-color:rgba(0, 255, 0, 0.283);
     color: black;
     border-radius: 5px;
   }
@@ -100,7 +100,7 @@
     border-left: 1px solid white;
     border-radius: 15px;
     outline: none !important; 
-    background-color: grey;
+    background-color: rgb(206, 206, 206);
     color: white;
     
     
